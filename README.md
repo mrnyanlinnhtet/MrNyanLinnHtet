@@ -5,8 +5,8 @@
 - 💬 Ask me about **Spring, Angular, JavaFX, JavaSE, Javascript, Typescirpt**
 
 - 📫 How to reach me **mr.nyanlinnhtet13@gmail.com**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet_icons=true&theme=tokyonight)
 
 
 
