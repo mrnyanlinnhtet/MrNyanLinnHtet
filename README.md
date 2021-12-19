@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mr.nyanlinnhtet13@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet_icons=true&theme=tokyonight)
 
 
 
