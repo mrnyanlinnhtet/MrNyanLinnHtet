@@ -3,12 +3,9 @@
 <h3 align="center">A passionate frontend and backend developer from Myanmar</h3>
 
 - 💬 Ask me about **Spring, Angular, JavaFX, JavaSE, Javascript, Typescirpt**
-
 - 📫 How to reach me **mr.nyanlinnhtet13@gmail.com**
+- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet&show_icons=true&theme=radical)
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
