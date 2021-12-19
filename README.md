@@ -1,5 +1,5 @@
 h1 align="center">Hi 👋, I'm Nyan Linn Htet</h1>
-<h3 align="center">A passionate frontend and Backend developer from Myanmar</h3>
+<h3 align="center">A passionate frontend and backend developer from Myanmar</h3>
 
 - 💬 Ask me about **Spring Angular JavaFX**
 
