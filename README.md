@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mr. Nyan Linn Htet</h1>
 <h3 align="center">A passionate Java developer from Myanmar</h3>
 
-- 💬 Ask me about **Spring, Angular, JavaFX, JavaSE, Javascript, Typescirpt**
+- 💬 Ask me about **Spring, Angular, JavaFX, JavaSE, Javascript, Typescript**
 - 📫 How to reach me **mr.nyanlinnhtet13@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet&show_icons=true&theme=radical)
