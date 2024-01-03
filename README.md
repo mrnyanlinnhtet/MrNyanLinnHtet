@@ -1,4 +1,4 @@
-![Ultron-codeX](https://github.com/MrNyanLinnHtet/MrNyanLinnHtet/blob/main/264-2646778_java-development-spring-framework.png)
+![Ultron-codeX](https://github.com/mrnyanlinnhtet/MrNyanLinnHtet/blob/main/buko.png)
 <h1 align="center">Hi 👋, I'm Mr. Nyan Linn Htet</h1>
 <h3 align="center">A passionate Software Developer from Myanmar</h3>
 
