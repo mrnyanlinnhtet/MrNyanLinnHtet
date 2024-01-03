@@ -1,6 +1,6 @@
 ![Ultron-codeX](https://github.com/MrNyanLinnHtet/MrNyanLinnHtet/blob/main/264-2646778_java-development-spring-framework.png)
 <h1 align="center">Hi 👋, I'm Mr. Nyan Linn Htet</h1>
-<h3 align="center">A passionate Java developer from Myanmar</h3>
+<h3 align="center">A passionate Software Developer from Myanmar</h3>
 
 - 💬 Ask me about **Spring, Angular, JavaFX, JavaSE, JavaScript, TypeScript**
 - 📫 How to reach me **mr.nyanlinnhtet13@gmail.com**
