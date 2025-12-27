@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on [MYEO](https://mymyeo.com/?fbclid=IwAR16tZWlw2dBAUT0A8TgZa-UfY1_9ceJ0NCtJViWtDvMLKOX_sLwJLFBg98)
 - 📫 How to reach me **mr.nyanlinnhtet13@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrNyanLinnHtet&show_icons=true&theme=radical)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
